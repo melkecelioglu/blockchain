@@ -50,6 +50,6 @@ describe('Block', () => {
             expect(minedBlock.hash)
             .toEqual(cryptoHash(minedBlock.timestamp, lastBlock.hash, data));
         });
-        describe('isValidChain()');
+        
     });
 });

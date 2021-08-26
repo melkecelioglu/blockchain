@@ -32,7 +32,7 @@ class Blockchain{
 
         this.chain = chain;
 
-    }
+    } 
 
     static isValidChain(chain){
 

@@ -52,5 +52,5 @@ Optimized the implementation to avoid redundant interaction.
 
 NEXT - WALLETS, KEYS AND TRANSACTIONS! 🦾 
 
-(i probabşy have to rest for a few days because of I will have a lot thing to do for family see u soon! )
+(i probably have to rest for a few days because of I will have a lot thing to do for family see u soon! )
 

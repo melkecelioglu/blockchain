@@ -13,7 +13,7 @@ Ok, maybe the magic part was a tiny bit exaggerated. But the technical part, not
 ----━━━━━━━━━━━━
 
 
-UPGRADE
+‼️ UPGRADE
 
 
 Implemented the proof of work system by adding a difficulty and nonce value to each block.
@@ -29,7 +29,7 @@ Prevented a potential difficulty jump attack by adding extra validation for the 
 
 NEXT - API AND NETWORK! 🦾
 
-UPGRADE
+‼️ UPGRADE
 
 
 Here’s what have been done in three days;
@@ -52,5 +52,5 @@ Optimized the implementation to avoid redundant interaction.
 
 NEXT - WALLETS, KEYS AND TRANSACTIONS! 🦾 
 
-(i probabşy have to rest for a few days because of I will have a lot thing to do for family see u soon! )
+(i probably have to rest for a few days because of I will have a lot thing to do for family see u soon! )
 

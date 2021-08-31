@@ -54,3 +54,33 @@ NEXT - WALLETS, KEYS AND TRANSACTIONS! 🦾
 
 (i probably have to rest for a few days because of I will have a lot thing to do for family see u soon! )
 
+
+September the 1st, ‼️UPDATE
+
+The overall project is getting pretty advanced! A whole backend blockchain, and now a bunch of initial objects for a cryptocurrency. Plus, everything is validated by tests. Pretty cool!
+
+
+
+Completing this section is an achievement to be proud of myself. Here’s what i built:
+
+-- Created the core wallet class for the cryptocurrency.
+
+-- Developed the cryptographic key pair and public key addressing system.
+
+-- Implementing signature generation and verification to make transactions official.
+
+-- Built the main transaction class - with the output map and input structure.
+
+-- Developed functionality to actually validate transactions.
+
+-- Tied transaction creation with the wallet class.
+
+-- Allowed transactions to be updated with multiple outputs to efficiently use existing objects.
+
+-- Improved the hash function to recognize objects with new properties as changes in incoming data.
+
+-- Covered edges cases with transaction updates to prevent vulnerabilities.
+
+
+
+NEXT- TRANSACTION POOL! 🦾

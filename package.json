@@ -7,14 +7,12 @@
     "test": "jest --watchAll",
     "start": "node index.js",
     "dev": "npm run start-redis && nodemon index.js",
-    "dev-peer":"cross-env GENERATE_PEER_PORT = 'true' nodemon index.js",
-    "start-redis":"redis--server --deamonize yes"
+    "dev-peer": "cross-env GENERATE_PEER_PORT = 'true' nodemon index.js",
+    "start-redis": "redis--server --deamonize yes"
   },
-  
   "jest": {
     "testEnvironment": "node"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -24,6 +22,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "uuid": "^3.3.2"
   }
 }

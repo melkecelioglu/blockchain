@@ -84,3 +84,24 @@ Completing this section is an achievement to be proud of myself. Here’s what i
 
 
 NEXT- TRANSACTION POOL! 🦾
+
+‼️ UPGRADE
+
+Here’s a recap of what I accomplished in this section:
+
+Created the core transaction pool with an ability to set transactions.
+
+Handled transaction through the API, and added API-generated transactions to the pool.
+
+Made sure invalid transactions did not go to the pool.
+
+Handled updates to transactions through the API.
+
+Exposed a new API method to read the transaction pool data.
+
+Broadcasted transactions as they occurred through the API.
+
+Synced the transaction pool map as a network-dependent object like the blockchain.
+
+
+NEXT- MINE TRANSACTIONS! 🦾

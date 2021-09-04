@@ -1,6 +1,9 @@
 const Wallet = require('./index');
 const Transaction = require('./transaction');
 const { verifySignature } = require('../util');
+const Blockchain = require('../blockchain');
+const { STARTING_BALANCE } = require('../config');
+
 
 describe('Wallet', () => {
     let wallet;
@@ -43,6 +46,7 @@ describe('Wallet', () => {
     });
 
     describe('createTransaction()', () => {
+
         describe('and the amount exceeds the balance', () => {
             it('throws am error', ()=>{
                 expect(() => wallet.createTransaction({ amount: 999999, recipient: 'foo-recipient'}))
@@ -68,6 +72,24 @@ describe('Wallet', () => {
             });
             it('outputs  the amount the recipient', () => {
                 expect(transaction.outputMap[recipient]).toEqual(amount);
+            });
+        });
+    });
+
+    describe('calculateBalance()', () => {
+        let blockchain;
+
+        beforeEach(() => {
+            blockchain = new Blockchain();
+        });
+        describe('and there are no outputs for the wallet ', () => {
+            it('returns the `STARTING_BALANCE`', () => {
+                expect(
+                    Wallet.calculateBalance({
+                        chain: blockchain.chain,
+                        address: wallet.publicKey
+                    })
+                ).toEqual(STARTING_BALANCE);
             });
         });
     });

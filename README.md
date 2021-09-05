@@ -137,3 +137,5 @@ Validated the entire transaction itself when accepting new user-contributed bloc
 
 
 It was quite a lengthy section. Progress in the course has taken a giant leap!
+
+NEXT- THE FRONTEND! 🦾

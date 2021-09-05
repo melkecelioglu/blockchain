@@ -105,3 +105,35 @@ Synced the transaction pool map as a network-dependent object like the blockchai
 
 
 NEXT- MINE TRANSACTIONS! 🦾
+
+‼️ UPGRADE 
+
+In this section, I covered a lot of important ground:
+
+Created the core transaction miner class to capture how miners should add transactions to the blockchain.
+
+Added the ability to grab valid transactions from the transaction pool.
+
+Added a way to clear blockchain transactions to ensure that only unique transaction objects could be recorded.
+
+Added a mining transactions endpoint to enable transaction mining through the API.
+
+Cleared recorded transactions on a successful replacement of the blockchain.
+
+Calculated the wallet balance based on the blockchain history.
+
+Applied these wallet balances whenever conducting a new transaction.
+
+Exposed the wallet information including the public key and balance through the API.
+
+Validated transaction data incoming into the blockchain.
+
+Validated incoming transaction input balances.
+
+Prevented duplicate transactions from appearing in a block’s data.
+
+Validated the entire transaction itself when accepting new user-contributed blockchains.
+
+
+
+It was quite a lengthy section. Progress in the course has taken a giant leap!

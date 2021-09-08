@@ -168,3 +168,30 @@ meanwhile in this sectioın I got several error such as:
 <img width="1077" alt="Screen Shot 2021-09-08 at 11 57 39" src="https://user-images.githubusercontent.com/67334822/132479251-f8617668-6e5c-4911-a4cb-380e3ccb411b.png">
 
 NEXT- THE FRONTEND OVERVIEW- EXTRAS 🦾
+
+‼️ UPGRADE 
+Hooray! The frontend cryptocurrency is complete!
+
+
+
+With that, I now have a completely viable full-stack blockchain and cryptocurrency project! Awesome! This section added a ton of new features. I:
+
+Created toggle-able transaction displays.
+
+Built a reusable frontend transaction component.
+
+Added routing for a multi-page application that renders different content based on the url.
+
+Supported the conducting of transactions through a form.
+
+Posted transactions through the fetch API.
+
+Visualized the transaction pool - and added real-time polling capabilities.
+
+Added a way to mine a block through the frontend.
+
+
+I 've nearly done with the project!
+
+NEXT- DEPLOYING TO PRODUCTION AND FULL STACK IMPROVEMENTS + EXTRAS 🦾
+

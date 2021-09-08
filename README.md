@@ -207,4 +207,5 @@ Supported a paginated exploration of the blocks with both the backend and fronte
 
 And Final.. 🥳🤩🙌🏻 Awesome, freakin' happy to complete the project and ready for lift off for the next ones 🤩
 
+Special thanks for Sir David
 

@@ -195,3 +195,16 @@ I 've nearly done with the project!
 
 NEXT- DEPLOYING TO PRODUCTION AND FULL STACK IMPROVEMENTS + EXTRAS 🦾
 
+‼️ LAST UPGRADE 
+
+Finishing last section was quite the accomplishment. In this section I:
+
+Deployed the project to production.
+
+Added a known addresses feature with both the backend and frontend.
+
+Supported a paginated exploration of the blocks with both the backend and frontend.
+
+And Final.. 🥳🤩🙌🏻 Awesome, freakin' happy to complete the project and ready for lift off for the next ones 🤩
+
+

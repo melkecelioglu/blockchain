@@ -139,3 +139,27 @@ Validated the entire transaction itself when accepting new user-contributed bloc
 It was quite a lengthy section. Progress in the course has taken a giant leap!
 
 NEXT- THE FRONTEND! 🦾
+
+‼️ UPGRADE 
+
+In this section, I got a lot of key things done:
+
+Started serving a frontend page using the existing express server.
+
+Added JavaScript to the frontend.
+
+Built React into the frontend using parcel-bundler.
+
+Set up an efficient development workflow using parcel.
+
+Created the core App component to house the main React components.
+
+Used the fetch API to request backend data and serve it on the frontend.
+
+Visualized the blocks from the backend.
+
+Stylized the application to make it not look like a barebones skeleton HTML site.
+
+Created a block component that inherited data from the core Blocks component through props.
+
+NEXT- THE FRONTEND OVERVIEW- EXTRAS 🦾

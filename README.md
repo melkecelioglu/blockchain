@@ -63,23 +63,23 @@ The overall project is getting pretty advanced! A whole backend blockchain, and 
 
 Completing this section is an achievement to be proud of myself. Here’s what i built:
 
--- Created the core wallet class for the cryptocurrency.
+Created the core wallet class for the cryptocurrency.
 
--- Developed the cryptographic key pair and public key addressing system.
+Developed the cryptographic key pair and public key addressing system.
 
--- Implementing signature generation and verification to make transactions official.
+Implementing signature generation and verification to make transactions official.
 
--- Built the main transaction class - with the output map and input structure.
+Built the main transaction class - with the output map and input structure.
 
--- Developed functionality to actually validate transactions.
+Developed functionality to actually validate transactions.
 
--- Tied transaction creation with the wallet class.
+Tied transaction creation with the wallet class.
 
--- Allowed transactions to be updated with multiple outputs to efficiently use existing objects.
+Allowed transactions to be updated with multiple outputs to efficiently use existing objects.
 
--- Improved the hash function to recognize objects with new properties as changes in incoming data.
+Improved the hash function to recognize objects with new properties as changes in incoming data.
 
--- Covered edges cases with transaction updates to prevent vulnerabilities.
+Covered edges cases with transaction updates to prevent vulnerabilities.
 
 
 

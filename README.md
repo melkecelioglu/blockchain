@@ -13,7 +13,7 @@ Ok, maybe the magic part was a tiny bit exaggerated. But the technical part, not
 ━━━━━━━━━━━━
 
 
-‼️ UPGRADE
+‼️ headway- UPGRADE
 
 
 Implemented the proof of work system by adding a difficulty and nonce value to each block.
